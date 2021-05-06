@@ -1,0 +1,21 @@
+#body{
+    text-align: center;
+    background: linear-gradient(#bc42f5  0%,
+    #f2f545 100%);
+    background-repeat:no-repeat;
+    padding:20px;
+    font-size:18;
+}
+img{
+    height:500px;
+    width:500px;
+}
+h1{
+    text-shadow: 2px 2px #141313;
+    font-size: 20px;
+}
+#header{
+    text-align: center;
+    background: linear-gradient(#bc42f5  0%,
+    #f2f545 100%);
+}
